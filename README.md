@@ -1,2 +1,3 @@
-# aws_challenge_lab_web_app
-Host a three tier web application on AWS for managing a café
+# AWS Challenge
+
+Created an end to end Operation Playbook for hosting a three tier web application on AWS. [Link](playbook/Operations_PlaybookCompleted.pdf) to the Playbook
